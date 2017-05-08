@@ -1,6 +1,6 @@
 Want to copy all your notes from Notes into Evernote?
 
-Now you can. Run this AppleScript on your Mac.
+Run this AppleScript on your Mac.
 All your folders from Notes will also become notebooks in Evernote.
 
 Please take note of these limitations:
